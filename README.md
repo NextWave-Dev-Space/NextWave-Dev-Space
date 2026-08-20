@@ -1,4 +1,4 @@
-# NextWave-Dev-Space
+# Yujin Seo's Github
 
 Backend-leaning developer working across Java/Spring and React/TypeScript, with an interest in deep learning.
 
