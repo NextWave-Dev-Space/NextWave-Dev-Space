@@ -26,3 +26,7 @@ Backend-leaning developer working across Java/Spring and React/TypeScript, with 
 ### 📫 Contact
 
 ![Gmail](https://img.shields.io/badge/Email-nextwave--dev--space%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=NextWave-Dev-Space&label=Profile%20Views&color=0e75b6&style=flat-square)
