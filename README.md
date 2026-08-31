@@ -6,7 +6,6 @@ Backend-leaning developer working across Java/Spring and React/TypeScript, with 
 
 ### 📚 Education & Career
 
-- &nbsp;&nbsp; Soonchunhyang University — B.S. in Computer Software Engineering
 - &nbsp;&nbsp; Programmers — Backend Engineering Tech Course
 
 ---
