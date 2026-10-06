@@ -28,4 +28,4 @@ Backend-leaning developer working across Java/Spring and React/TypeScript, with 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=NextWave-Dev-Space&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://hits.sh/github.com/NextWave-Dev-Space.svg?view=today-total&style=flat-square&label=Profile%20Views%20%28Today%20%2F%20Total%29&color=0e75b6)
