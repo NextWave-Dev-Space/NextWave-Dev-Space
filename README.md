@@ -22,6 +22,26 @@ Backend-leaning developer working across Java/Spring and React/TypeScript, with 
 
 ---
 
+### 📊 GitHub Stats
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NextWave-Dev-Space&show_icons=true&hide_border=true&theme=github_dark">
+    <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=NextWave-Dev-Space&show_icons=true&hide_border=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NextWave-Dev-Space&layout=compact&hide_border=true&theme=github_dark">
+    <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NextWave-Dev-Space&layout=compact&hide_border=true">
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NextWave-Dev-Space&hide_border=true&theme=github-dark">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=NextWave-Dev-Space&hide_border=true">
+</picture>
+
+---
+
 ### 📫 Contact
 
 ![Gmail](https://img.shields.io/badge/Email-nextwave--dev--space%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
